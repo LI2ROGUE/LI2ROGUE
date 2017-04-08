@@ -10,8 +10,6 @@ Macros úteis para gerar CGIs
 
 /**
 * Caminho para as imagens para copiares para a pasta html
-sudo cp imagem.png /var/www/html
-sudo mk /var/www/html/images
 */
 #define IMAGE_PATH							"http://localhost/"
 
