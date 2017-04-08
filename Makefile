@@ -1,4 +1,4 @@
-CFLAGS=-Wall
+CFLAGS=-Wall -Wextra -ansi -pedantic -O2
 FICHEIROS=cgi.h estado.c estado.h exemplo.c Makefile
 
 install: exemplo
